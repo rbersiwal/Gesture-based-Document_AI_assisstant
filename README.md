@@ -43,3 +43,20 @@ The project combines **Computer Vision, Natural Language Processing, Vector Sear
                     Llama 3.2
                          ↓
                     AI Answer
+
+
+                    Webcam
+                       ↓
+              MediaPipe Hand
+                 Landmarker
+                       ↓
+                Hand Landmarks
+                       ↓
+                Finger Counting
+                       ↓
+              Gesture Recognition
+                       ↓
+        ┌────────┬────────┬────────┬────────┐
+        ↓        ↓        ↓        ↓
+      SEARCH    NEXT     CLEAR     STOP
+       ☝️        ✌️       ✊        ✋
