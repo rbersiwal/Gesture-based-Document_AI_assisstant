@@ -43,7 +43,10 @@ The project combines **Computer Vision, Natural Language Processing, Vector Sear
                     Llama 3.2
                          ↓
                     AI Answer
+---
 
+## Gesture Pipeline
+---
 
                     Webcam
                        ↓
