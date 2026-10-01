@@ -1,4 +1,4 @@
-# 🤖 Gesture RAG Assistant
+# 🤖 Gesture Based AI Assistant
 
 A gesture-controlled Retrieval-Augmented Generation (RAG) application that allows users to upload PDF documents, ask questions about them, and interact with the system using hand gestures.
 
